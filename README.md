@@ -1,0 +1,2 @@
+# AI-for-DS
+HEART DISEASE PREDICTION (2-2 project)
